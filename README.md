@@ -1,1 +1,2 @@
-# State-Of-Drives-in-Telegram
+# Отправка сообщения о состоянии HDD/SSD в Telegram
+
